@@ -1,2 +1,1 @@
-# This project is an problem statement of SSIP smart gujarat hackathon given by the ACPC.
-# Project will be availble when hackathon will officially over.
+# This project is based on a problem statement given by ACPC under the SSIP Smart Gujarat Hackathon. The project details and code will be made available once the hackathon officially concludes.
